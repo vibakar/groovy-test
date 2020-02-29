@@ -1,0 +1,40 @@
+[{
+  index: 'was_auth',
+  exception: 'Exception1'
+}, {
+  index: 'was_docupload',
+  exception: 'Exception2'
+}, {
+  index: 'was_salsa',
+  exception: 'Exception3'
+}, {
+  index: 'was_auth',
+  exception: 'Exception4'
+}, {
+  index: 'was_sales',
+  exception: 'Exception5'
+}, {
+  index: 'was_colgapp',
+  exception: 'Exception6'
+}, {
+  index: 'was_auth',
+  exception: 'Exception7'
+}, {
+  index: 'was_auth',
+  exception: 'Exception8'
+}, {
+  index: 'was_unauth',
+  exception: 'Exception9'
+}, {
+  index: 'was_sales',
+  exception: 'Exception10'
+}, {
+  index: 'was_auth',
+  exception: 'Exception11'
+}, {
+  index: 'was_auth',
+  exception: 'Exception12'
+}, {
+  index: 'was_unauth',
+  exception: 'Exception13'
+}]
